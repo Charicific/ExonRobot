@@ -22,7 +22,7 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-      "url": "https://heroku-communtiy/apt"
+      "url": "https://github.com/heroku-communtiy/apt"
     }
    ],
    "stack": "heroku-22",
