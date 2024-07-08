@@ -23,7 +23,7 @@
     },
     {
       "url": "https://heroku-communtiy/apt"
-    },
+    }
    ],
    "stack": "heroku-22",
    "addons": [
